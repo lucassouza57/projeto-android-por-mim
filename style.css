@@ -153,9 +153,8 @@ aside ul{
 }
 
 aside ul>li {
-    
-        width: 48%;
-        margin-bottom: 10px;
+    width: 30%;
+    margin-bottom: 10px;
 }
 
 main img {
